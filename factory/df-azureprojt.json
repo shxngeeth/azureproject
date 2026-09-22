@@ -1,0 +1,15 @@
+{
+	"name": "df-azureprojt",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "switzerlandnorth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8d9bde6f-66d8-4fb8-8c1c-34190a34c498",
+		"tenantId": "3c9ec72b-3fdf-4c9d-91a2-99f800a10e92"
+	}
+}
