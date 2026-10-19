@@ -13,6 +13,12 @@
 },
 {
 "schema":"dbo",
+"table" : "DimDate",
+"cdc_col" : "updated_at",
+"from_date" : ""
+},
+{
+"schema":"dbo",
 "table" : "DimArtist",
 "cdc_col" : "updated_at",
 "from_date" : ""
